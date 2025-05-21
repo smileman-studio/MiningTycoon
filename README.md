@@ -1,7 +1,8 @@
 # MiningTycoon
 Проект по [тестовому заданию](TaskDescription.md).
-
 Время выполнения 4 дня.
+
+https://github.com/user-attachments/assets/6c0a966c-2c6a-48d4-b3f1-cad011d83988
 
 **Уточнение к тестовому заданию**
 
@@ -13,7 +14,7 @@
 
 Для создания и настройки графа сделан редактор MapEditor.
 
-[](graph.mp4)
+https://github.com/user-attachments/assets/cd0204b8-e934-4e27-afc6-94c88f30db0d
 
 
 
