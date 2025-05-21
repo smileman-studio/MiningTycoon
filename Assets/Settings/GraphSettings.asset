@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f34b23ef5b436096852819791424d2, type: 3}
+  m_Name: GraphSettings
+  m_EditorClassIdentifier: 
+  <NodePrefab>k__BackingField: {fileID: 1809775220769233306, guid: 45c1f0f56c0bf31468b5c6f9af75d8d1, type: 3}
+  <EdgePrefab>k__BackingField: {fileID: -678902865472508720, guid: 0daf3f1fa43053d4194c23ea76773a23, type: 3}
+  <StationPrefab>k__BackingField: {fileID: 2976562131224115490, guid: 7b660ab48d0d9fb4ea9666bcfa2330c2, type: 3}
+  <MinePrefab>k__BackingField: {fileID: 1369627682255536776, guid: 457a962a19fb3894cb167cac37a9456d, type: 3}
+  <TrainPrefab>k__BackingField: {fileID: 5437440761375724635, guid: 5349c386a2832b14f892ac5e622171ce, type: 3}
